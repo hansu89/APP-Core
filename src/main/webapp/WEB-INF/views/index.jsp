@@ -12,6 +12,6 @@
   </head>
   <body>
   <h1>WelCome To Index Page</h1>
-  $END$
+  <h1>${url}</h1>
   </body>
 </html>
